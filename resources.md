@@ -1,6 +1,6 @@
 ﻿# Resources
 
-A curated list of tools and links we use at RKL Collecitve.
+A curated list of tools and links we use at RKL Collective.
 
 ## Design
 - Canva – quick graphics and decks
